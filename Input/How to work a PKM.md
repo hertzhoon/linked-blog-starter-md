@@ -3,4 +3,3 @@
 
 I think the basic idea is just writing down thoughts, even if they are confusing. They might be of some value later? Basically having a knowledge base like that.
 
-

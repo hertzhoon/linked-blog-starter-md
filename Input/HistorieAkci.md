@@ -30,8 +30,7 @@ Priorita 1:
 	enum parametry budou ty UC z CNFL
 	dve enum hodnoty (succ, fail) pro kazde UC
 	kazda hodnota enumu bude mit parametr name, coz bude ten UC
-	enum bude mit ten samy UC, jeden bude succ a jeden fail
-	Dulezite jsou na zacatek hodnoty, ktere 
+	enum bude mit ten samy UC, jeden bude succ a jeden fail	
 
 vytvorim enum a nacpu ho do databaze misto setEvent()
 

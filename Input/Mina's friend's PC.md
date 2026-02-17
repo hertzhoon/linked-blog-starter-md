@@ -9,3 +9,4 @@ We have agreed that I will build him a new PC.
 He wants something future proof, so it can at least live for like 10 years.
 Max budget is like 25k crowns.
 Need to make sure of compatibility between the items and stuff. 
+
