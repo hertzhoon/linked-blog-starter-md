@@ -51,3 +51,7 @@ projit vsechny UC a doplnit tu historii kde se nezapisuje
 
 CODEBASE JE COOKED - PTAT SE
 
+
+Structured
+	ENUM name -> popisne vuci tomu, co dela UC -> rozdeleno na PASS a FAIL
+
