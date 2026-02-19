@@ -53,4 +53,3 @@ CODEBASE JE COOKED - PTAT SE
 
 Structured
 	ENUM name -> popisne vuci tomu, co dela UC -> rozdeleno na PASS a FAIL
-
