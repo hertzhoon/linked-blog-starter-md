@@ -13,6 +13,7 @@
 | AUTH_CODE_VERIFICATION_FAIL    | https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Vyd%C3%A1n%C3%AD-prvotn%C3%ADho-QC-pro-manu%C3%A1l |
 | AUTH_CODE_MAX_ATTEMPTS_REACHED | https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Vyd%C3%A1n%C3%AD-prvotn%C3%ADho-QC-pro-manu%C3%A1l |
 
+
 | Enum                                      | Odkaz                                                                                                                      |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | QC_ISSUANCE_REQUEST_CREATED_MANUAL        | https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Vyd%C3%A1n%C3%AD-prvotn%C3%ADho-QC-pro-manu%C3%A1l         |
