@@ -1,8 +1,7 @@
 
-The boss just told me that after the external devs are gone, most of this app will fall on my shoulders. Need to really quicken up with the analysis of the app.
+After the ext. devs are gone, the app will be maintained by me mostly. Bit scary but okay-ish.
 
-
-24-02-2026 Understanding
+**24-02-2026 Understanding**
 ```
 Copied from CNFL: 
 
@@ -14,7 +13,8 @@ Copied from CNFL:
 
 - Portály BE – zajišťují logiku a přístup k datovému úložišti pro oba portály výše
 ```
-	
+
+
 
 TECH DEBT
 	Transactions
