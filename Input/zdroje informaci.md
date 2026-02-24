@@ -1,5 +1,4 @@
 Functional specification and Jira - not much else.
-
-Test 
+Dev guidelines --> podrobne informace k procesum
 
 
