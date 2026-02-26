@@ -94,3 +94,5 @@ Tato stránka slouží jako přehled a „slovník“ hodnot enumu HistoryEventE
 |PASSWORD_FORGOTTEN||[https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Zapomenut%C3%A9-heslo](https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Zapomenut%C3%A9-heslo)|
 |BIO_SETTING_ENABLED||[https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Nastaven%C3%AD-biometriky](https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Nastaven%C3%AD-biometriky)|
 |BIO_SETTING_DISABLED||[https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Nastaven%C3%AD-biometriky](https://icacz.atlassian.net/wiki/spaces/CSOBZMKP/pages/57835521#Nastaven%C3%AD-biometriky)|
+
+
