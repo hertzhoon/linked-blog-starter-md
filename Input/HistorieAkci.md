@@ -1,60 +1,3 @@
-HistoryController - getHistory()
-
-Entita History
-
-hi_event je text pretvorit na enum
-hi_source_type --- 
-
-nemusim resit - kde se zapisuje a nezapisuje
-
-**history.setEvent()**
-
-jednak chci aby jeden zaznam enumu ---
-	budeme rozlisovat case (auth code - bude mit atributy succesful nebo failed dle )
-
-
-Confluence
-	kody use casu (KOD UC)
-	tam kde se pise do historie database 
-		identifikovat use case -> vytvorit enum -> nastavit do eventu spravnou hodnotu enumu ->  CNFL idk nejak se prizpusobim
-
-
-certSN do eventu nepsat -> zahodit
-
-
-definovane resp. nedefoinovane
-	auth code failed
-
-
-Priorita 1:
-	enum parametry budou ty UC z CNFL
-	dve enum hodnoty (succ, fail) pro kazde UC
-	kazda hodnota enumu bude mit parametr name, coz bude ten UC
-	enum bude mit ten samy UC, jeden bude succ a jeden fail	
-
-vytvorim enum a nacpu ho do databaze misto setEvent()
-
-
-substring akce - filtrovat jinak kvuli ceske lokaizaci na FE
-	
-kdyz nastane vchyba, UC failne na necem konkretnim ---> errorove kody  do db (nejsou nutne resit teraz)
-
-
-ENUM misto eventu na hi_event
-
-Porovnat ACCEPTANCE CRITERIA s tim co ted je. NA FE to jeste neni
-
-FE ked neco prijde UC fail -> na pozdeji pridavat error code do db a FE bude vedet vse.
-
-projit vsechny UC a doplnit tu historii kde se nezapisuje
-
-
-Structured
-	ENUM name -> popisne vuci tomu, co dela UC -> rozdeleno na PASS a FAIL
-
-
-
-
 25-02-2026
 	Filtrovani dle substringu akce
 	Davat do ENUMu CZ nazvy je blbost
@@ -79,3 +22,18 @@ kdyz mame priklad: person_properties_updated --- zalogovat vsechno kde se napric
 
 import succ/fail --> byla zmena udaju na revokaci? --> budeme logovat ANO, zmenily se udaje
 odstranit logovani z nejnizsi urovne, protoze se triggeruje z vice mist
+
+EMP_IMPORT_DATA_AUTO_FAIL and MANUAL fail ---> jak rozlisovat?
+
+PERSON_PROPERTIES_UPDATED a CONTRACT_PROPERTIES_UPDATED ---> proc jsem pochopil, ze to ma jit na uroven endpointu ---> Controller? -- porad je to business logika
+
+
+
+Zakladni pravidlo
+	Jde o logovani pripadu, kde se neco uklada do databaze. Vetsinou.
+
+
+
+
+
+
