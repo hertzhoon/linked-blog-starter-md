@@ -37,3 +37,16 @@ Zakladni pravidlo
 
 
 
+1:1 k funkcni spec
+v jedne transakci
+overloaded methods
+Vyresit jaky endpoint je volan odkud ?
+kdyz editujem nekoho jineho, tak je to KP
+
+ImportController  KP
+AuthCodeController SP
+RQESAppService KP
+
+CertificateController BOTH
+ContractController BOTH
+PersonController BOTH
