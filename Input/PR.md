@@ -1,3 +1,1 @@
-nullcheck provedu
-zaloguje se, v transakci to bezi kvuli svemu Transactional
-tak jsem to tam nakonec napsal haha
+Bude builder yayyyyy. Budou dve metody, jedna TX type mandatory a druha asi nic, protoze se sama najoinuje. Kazdopadne success bude asi mandatory, coz by melo znamenat, ze pokud neexistuje transakce nad tim, tak se ani log neprovede, respektive zadna transakce se nevytvori a jeto v kunde
